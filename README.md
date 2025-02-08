@@ -13,11 +13,9 @@ This is a simple web application that allows you to generate images using a free
 
 ## Screenshots:
 
-**Desktop View:**
-![Desktop View](screenshots/image_gen_desktop.png)
-
-**Mobile View:**
-![Mobile View](screenshots/image_gen_mobile.png)
+| Desktop View                                  | Mobile View                                   |
+| :-------------------------------------------- | :-------------------------------------------- |
+| ![Desktop View](screenshots/image_gen_desktop.png) | ![Mobile View](screenshots/image_gen_mobile.png) |
 
 ## Usage Instructions:
 
